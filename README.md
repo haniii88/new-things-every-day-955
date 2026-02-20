@@ -1,4 +1,4 @@
-/* New Things Every Day — Da 95 */
+/* New Things Every Day — Day 95 */
 /* Generates a daily execution log with a random activity score */
 
 function dailyLog95() {
